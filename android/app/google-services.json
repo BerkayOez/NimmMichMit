@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "808011722434",
+    "firebase_url": "https://nimm-mich-mit.firebaseio.com",
+    "project_id": "nimm-mich-mit",
+    "storage_bucket": "nimm-mich-mit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808011722434:android:82b9f68b5427136467955b",
+        "android_client_info": {
+          "package_name": "com.example.nmm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808011722434-2tp7s0oo45dcavcm5e9e1hk0spjpt43e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXTs2enzfifosgMj7zXlYUcSQJ-sAjGzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "808011722434-2tp7s0oo45dcavcm5e9e1hk0spjpt43e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
